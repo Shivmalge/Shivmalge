@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivmalge&label=Profile%20views&color=0e75b6&style=flat" alt="shivmalge" /> </p>
 
-- 🌱 I’m currently learning **React, Javascript**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Shivmalge](https://github.com/Shivmalge)
 
 - 📫 How to reach me **shivmalge12@gmail.com**
