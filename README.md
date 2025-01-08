@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivsharan Malage</h1>
-<h3 align="center">I am Associate Software Engineer</h3>
+<h3 align="center">I am Associate Software Engineer and passionate Data Analyst</h3>
 <img align="right" alt="coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/90/cartoon-programmer-writes-code-workspace-concept-vector-20874790.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivmalge&label=Profile%20views&color=0e75b6&style=flat" alt="shivmalge" /> </p>
